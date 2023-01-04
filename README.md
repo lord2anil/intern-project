@@ -1,3 +1,6 @@
+deployed
+https://lord2anil.github.io/intern-project/
+
 # intern-project
 # intern-project-frontand
 ![image](https://user-images.githubusercontent.com/97228857/210607016-bcfc3a8b-98ae-4fb6-91ae-8393759d741a.png)
